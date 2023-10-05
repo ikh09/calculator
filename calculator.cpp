@@ -5,7 +5,7 @@ int main() {
 
   char op;
   float num1, num2;
-// change this to five numbers
+// new branch feature
   cout << "Enter operator: +, -, *, /: ";
   cin >> op;
 
