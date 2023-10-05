@@ -5,7 +5,7 @@ int main() {
 
   char op;
   float num1, num2;
-// change this to four numbers
+// change this to five numbers
   cout << "Enter operator: +, -, *, /: ";
   cin >> op;
 
